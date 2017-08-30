@@ -12,7 +12,7 @@ These are the contents of Verification and Validation course offered at Kansas S
  When there are more than few students in a class, students are required to summarize the paper before the class, update the summary after discussing the paper, and then submit the updated summary to the instructor for evaluation.
 
 
-## Considered Papers
+## Discussed Papers
 
 1. [A Decade of Software Model Checking with SLAM.](papers/CACM11-Ball.pdf) Thomas Ball, Vladimir Levin, and Sriram Rajamani. CACM'11. **Model Checking**
 1. [A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs.](papers/ASPLOS10-Burckhardt.pdf) Sebastian Burckhardt, Pravesh Kothari, Madanlal Musuvathi, and Santosh Nagarakatte. ASPLOS'10. **Bug Finding**
