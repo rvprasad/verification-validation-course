@@ -56,7 +56,6 @@ These are the contents of Verification and Validation course offered at Kansas S
 1. [Software Model Checking.](papers/ACMCS09-Jhala.pdf) Ranjit Jhala and Rupak Majumdar. ACM CS'09. **Model Checking**
 1. [Symbolic Execution for Software Testing: Three Decades Later.](papers/CACM13-Cadar.pdf) Cristian Cadar and Koushik Sen. CACM'13. **Symbolic Execution, Testing**
 1. [The Model Checker SPIN.](papers/TSE97-Holzmann.pdf) Gerard J. Holzmann. TSE'97 **Model Checking**
-1. [The Science of Brute Force.](papers/CACM17-Heule.pdf) Marijn J. H. Heule and Oliver Kullmann. CACM'17. **SMT**
 1. [Transferring an Automated Test Generation Tool to Practice: From Pex to Fakes and Code Digger.](papers/ASE14-Tillmann.pdf) Nikolai Tillmann, Peli De Halleux, and Tao Xie. ASE'14. **Tech Transfer**
 1. [Who Builds a House without Drawing Blueprints?](papers/CACM15-Lamport.pdf) Leslie Lamport. CACM'15. **Specification**
 1. [Why Amazon chose TLA+?](papers/ABZ14-Newcombe.pdf) Chris Newcombe. ABZ'14. **Specification**
