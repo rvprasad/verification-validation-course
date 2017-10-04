@@ -1,15 +1,15 @@
-# Readings in Verificaiton and Validation Course
+# Readings in Verificaiton and Validation (CIS841) Course
 
-These are the contents of Verification and Validation course offered at Kansas State University in Fall'15-'17. This is an upper-level graduate course. It requires students to have taken graduate-level courses in software engineering and software specification and to have some experience developing software.
+These are the contents of **Verification and Validation (CIS841)** course offered at Kansas State University in Fall'15-'17. This is an upper-level graduate course. It requires students to have taken graduate-level courses in software engineering and software specification and to have some experience developing software.
 
 
 ## Format
 
- At the beginning of the semester, a subset of papers from the following list is selected for discussion. We consdier the interests and strengths of students enrolled in the course while selecting the papers. For example, if most of the students are employed in the industry, then we pick more industry paper (i.e., tools, tech transfer, studies). Then, each student is assigned a set of papers from the set.
+At the beginning of the semester, a subset of papers from the following list is selected for discussion. We consdier the interests and strengths of students enrolled in the course while selecting the papers. For example, if most of the students are employed in the industry, then we pick more industry paper (i.e., tools, tech transfer, studies). Then, each student is assigned a set of papers from the set.
 
- In each class, one student presents an assigned paper to the rest of the class while the rest of the class participates in discussing the assigned paper. The presenter is required to be aware of the entire content of the paper and to try to answer any questions raised during the discussion. At times, the presenter may not understand some parts of the paper. In such situation, he/she can consult the instructor about such parts of the paper before presenting the paper or he/she can state his/her understanding and seek clarification from the instructor in class while presenting the paper. The instructor will steer the in-class discussion (e.g., by asking questions/clarifications about specific parts of papers) and clarify any doubts about the paper that were unanswered by the presenter.
+In each class, one student presents an assigned paper to the rest of the class while the rest of the class participates in discussing the assigned paper. The presenter is required to be aware of the entire content of the paper and to try to answer any questions raised during the discussion. At times, the presenter may not understand some parts of the paper. In such situation, he/she can consult the instructor about such parts of the paper before presenting the paper or he/she can state his/her understanding and seek clarification from the instructor in class while presenting the paper. The instructor will steer the in-class discussion (e.g., by asking questions/clarifications about specific parts of papers) and clarify any doubts about the paper that were unanswered by the presenter.
 
- When there are more than few students in a class, students are required to summarize the paper before the class, update the summary after discussing the paper, and then submit the updated summary to the instructor for evaluation.
+When there are more than few students in a class, students are required to summarize the paper before the class, update the summary after discussing the paper, and then submit the updated summary to the instructor for evaluation.
 
 
 ## Discussed Papers
